@@ -1,1 +1,3 @@
+cd fb-token-checker
+pip install -r requirements.txt
 
